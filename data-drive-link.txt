@@ -1,1 +1,3 @@
 https://drive.google.com/drive/folders/1FtGdHqmBI3MxF69RhOifvARUUttYoDdh?usp=drive_link
+
+make sure to put all the tl_2022_12_cousub files inside ./shape/...
